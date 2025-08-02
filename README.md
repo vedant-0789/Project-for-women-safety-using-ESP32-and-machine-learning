@@ -40,7 +40,4 @@ The **Smart Pendant** integrates **IoT** and **Machine Learning** to create a re
 | Deep Learning (CNN) | Object detection (weapon/non-weapon classification) |
 | Regression (crime data) | Danger zone prediction & heatmap generation |
 
----
-
-## 📊 System Architecture
 
